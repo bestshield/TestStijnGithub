@@ -15,6 +15,6 @@ jobs:
     steps:
 
     - uses: actions/checkout@v1
-    - name: configure
-      run: .\Documents\GitHub\TestStijnGithub\testetstt
+    - name: de test runnen
+      run: ./testetstt
 
