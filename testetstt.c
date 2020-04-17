@@ -1,9 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h> 
 
+
 int main(void)
 { 
+	int ERRORCODE; 
 	int waarde = 1 + 1;
 	printf("waarde = %d", waarde);
-return 0;  
+	if (waarde = 2)
+	{
+		ERRORCODE = 0;
+	}
+	if (waarde != 2)
+	{
+		ERRORCODE <= 1;
+	}
+	return ERRORCODE;  
 }
