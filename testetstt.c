@@ -5,7 +5,7 @@
 int main(void)
 { 
 	int ERRORCODE; 
-	int waarde = 1 + 1;
+	int waarde = 1 + 0;
 	printf("waarde = %d", waarde);
 	if (waarde = 2)
 	{
