@@ -7,7 +7,7 @@ int main(void)
 	int ERRORCODE; 
 	int waarde = 1 + 0;
 	
-	if (waarde = 2)
+	if (waarde == 2)
 	{
 		ERRORCODE = 0;
 	}
