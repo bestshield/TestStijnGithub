@@ -15,5 +15,5 @@ int main(void)
 	{
 		ERRORCODE <= 1;
 	}
-	return ERRORCODE;  
+	return ERRORCODE;   
 }
