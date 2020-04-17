@@ -16,5 +16,5 @@ jobs:
 
     - uses: actions/checkout@v1
     - name: configure
-      run: C:\Users\stijn\Documents\GitHub\TestStijnGithub\testetstt
+      run: Documents\GitHub\TestStijnGithub\testetstt
 
