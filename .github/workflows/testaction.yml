@@ -15,5 +15,5 @@ jobs:
     steps:
 
     - name: configure
-      run: C:\Users\stijn\Documents\GitHub\TestStijnGithub\testetstt.exe
+      run: C:\Users\stijn\Documents\GitHub\TestStijnGithub\testetstt
 
