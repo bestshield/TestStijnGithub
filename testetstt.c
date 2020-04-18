@@ -17,5 +17,5 @@ int main(void)
 	}
 	printf("waarde = %d", waarde);
 	printf("ERRORCODE = %d", ERRORCODE);
-	return ERRORCODE;      
+	return ERRORCODE;        
 }
